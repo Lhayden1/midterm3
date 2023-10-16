@@ -1,0 +1,56 @@
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font : normal normal normal 12px/1.5 Arial;
+}
+.structural{
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    color : rgb(194, 21, 122);
+    font-size: 3em;
+}
+h2{
+    color : rgb(105, 46, 161);
+    font-size: 2em;
+}
+main{
+    height: 70vh;
+}
+
+#dog1 {
+    float : right;
+    width: 90%;
+    height: 80%;
+    border: 3px solid hsl(246, 66%, 58%);
+}
+
+#dogs6 {
+    float : right;
+    width: 90%;
+    height: 80%;
+    border: 3px solid hsl(246, 66%, 58%);
+}
+
+figure{
+    width: 45%;
+    height: 60%;
+    background-color : hsl(244, 100%, 75%);
+    margin: auto;
+    padding: 10px;
+}
+
+figcaption {
+    font : normal normal normal 12px/1.5 Arial;
+    padding: 5px;
+}
+
+ul{
+    color : rgb(255, 0, 43);
+}
+
+#structural {
+    background-color : hsl(145, 100%, 75%);
+}
